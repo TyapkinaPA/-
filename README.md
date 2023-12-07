@@ -4,3 +4,4 @@
 3. [Pandas](/Pandas.ipynb).
 4. [ETL](Подсистемы_ETL.ipynb).
 5. [Визуальный анализ](/05_hw_visualisation.ipynb).
+6. [Визуальный анализ Pandas](/06_hw_visualization_pandas.ipynb).
