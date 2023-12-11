@@ -6,3 +6,4 @@
 5. [Визуальный анализ](/05_hw_visualisation.ipynb).
 6. [Визуальный анализ Pandas](/06_hw_visualization_pandas.ipynb).
 7. [4.1. Маркетинговая аналитика](/marketing_analytics_students_(4).ipynb).
+8. [4.2. Маркетинговая аналитика MySql](/Работа_с_бд_студент.ipynb).
